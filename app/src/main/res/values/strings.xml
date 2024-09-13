@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">dog</string>
+
+    <string name="nextrition">Nextrition is a dog food brand that specializes in cold-pressed dog food. This method of processing is believed to preserve more nutrients and flavor compared to traditional cooking methods used in many kibble products.. </string>
+
+    <string name="pedigree">A pedigree is essentially a family tree that charts the occurrence of a specific trait or disease over several generations.. </string>
+
+
+    <string name="wellnesscore">Wellness Core is a popular dog food brand known for its commitment to using high-quality, natural ingredients. They position themselves as providing a nutritionally balanced diet for dogs. </string>
+
+
+    <string name="rawternative">RawTernative is a brand that offers air-dried raw dog food. This method preserves the nutrients and taste of raw food without the need for freezing. </string>
+
+
+    <string name="purinapro">Purina Pro Plan is a well-known and respected brand in the pet food industry. It offers a wide range of products formulated to meet the specific nutritional needs of dogs and cats at different life stages and with various health conditions. </string>
+
+
+    <string name="northpaw">North Paw is a Canadian pet food brand that has gained popularity for its focus on grain-free formulas and the use of novel proteins. </string>
+
+
+    <string name="royalcanin">Royal Canin is a globally recognized brand renowned for its extensive range of dog foods specifically formulated to meet the unique nutritional needs of different breeds, life stages, and health conditions. </string>
+
+
+    <string name="hillscience">Hills Science Diet is formulated by veterinarians and nutritionists to meet the precise nutritional needs of dogs at different life stages and with various health concerns. </string>
+
+
+    <string name="bluebuffalo">Blue Buffalo uses high-quality natural ingredients, with no artificial preservatives, colors, or flavors. Their formulas often feature real meat as the first ingredient. </string>
+
+
+    <string name="nutroultra">Nutro Ultra is known for its "Superfood" blend, which includes a variety of high-quality ingredients like lean proteins, whole grains, fruits, and vegetables. </string>
+
+    <string name="tasteofthewild">Taste of the Wild offers grain-free diets inspired by the ancestral diet of wild dogs, featuring novel proteins like bison, venison, and wild boar. </string>
+
+    <string name="acana">Acana, like Orijen, is known for its biologically appropriate diets, focusing on regionally sourced ingredients and high meat content with limited carbohydrates. </string>
+
+
+    <string name="dog_education_tips">Here are some educational tips about dog care and training:\n\n"
+        "1. Proper Nutrition: Ensure your dog gets a balanced diet suited to their age, size, and health needs. Consult your vet for recommendations on high-quality dog food.\n\n"
+        "2. Regular Exercise: Dogs need regular physical activity to stay healthy and happy. Tailor the exercise routine to your dog’s breed and energy level.\n\n"
+        "3. Training and Socialization: Start training early to help your dog learn basic commands and proper behavior. Socialize your dog with different people, animals, and environments to promote good behavior.\n\n"
+        "4. Routine Vet Check-ups: Regular veterinary visits are essential for maintaining your dog’s health. Schedule annual check-ups and keep up with vaccinations and preventative care.\n\n"
+        "5. Grooming: Depending on the breed, regular grooming may be necessary to keep your dog’s coat healthy. Brush your dog’s fur, trim their nails, and clean their ears as needed.\n\n"
+        "6. Mental Stimulation: Provide toys and activities that stimulate your dog’s mind. Puzzle toys, training exercises, and interactive play can help prevent boredom and destructive behavior.\n\n"
+        "7. Safe Environment: Ensure your home and yard are safe for your dog. Remove harmful substances and secure any areas where your dog might escape.\n\n"
+        "By following these tips, you can help ensure a healthy and happy life for your canine companion."
+    </string>
+
+
+    <string name="defenderpro">Defender Pro is another topical solution used for flea and tick prevention in dogs. Similar to Dermisule, it contains the active ingredient permethrin and provides protection against fleas, ticks, lice, and mites. </string>
+
+    <string name="dermisule">Dermisule is a topical solution used for flea and tick prevention in dogs. Unlike NexGard and Neomec, which are chewable tablets, Dermisule is applied directly to the dogs skin. </string>
+
+    <string name="neomec">Neomec is another chewable tablet used for flea and tick prevention in dogs. It contains the same active ingredient as NexGard, afoxolaner, which means it offers similar benefits in terms of effectiveness, convenience, and heartworm protection. </string>
+
+    <string name="nexgard">NexGard is a popular chewable tablet used to protect dogs from fleas and ticks. It contains the active ingredient afoxolaner, which kills adult fleas and ticks within 8 hours of administration. </string>
+
+    <string name="petvitpower">Pet Vit Power is a topical solution used for flea and tick prevention in dogs. It contains the active ingredient permethrin, which kills fleas and ticks on contact. </string>
+
+    <string name="simparica">Simparica is a popular monthly chewable medication used to protect dogs from fleas and ticks. Its designed to kill adult fleas and ticks, as well as prevent the development of flea eggs and larvae. </string>
+
+    <string name="kennelcough">Kennel cough is a highly contagious respiratory infection that affects dogs. Its often caused by a combination of viruses and bacteria. </string>
+
+    <string name="sanpetplus">Sanpet Plus is a de-worming medication designed for dogs and cats. Its primarily used to treat and prevent intestinal roundworms, tapeworms, and hookworms. </string>
+
+    <string name="paragard">ParaGard is an intrauterine device (IUD) that is used as a form of birth control. It is a long-acting, reversible contraceptive (LARC) that can be very effective in preventing pregnancy when used correctly. </string>
+
+
+</resources>

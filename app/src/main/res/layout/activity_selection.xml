@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bglogo"
+    android:padding="20dp"
+    tools:context=".SelectionActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:srcCompat="@drawable/select" />
+
+    <Button
+        android:id="@+id/buttonDogEducation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Dog Education"
+        android:layout_marginTop="300dp"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonDogNutrition"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Dog Nutrition"
+        android:padding="16dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonDogEducation" />
+
+    <Button
+        android:id="@+id/buttonDogMedicine"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Dog Medicine"
+        android:padding="16dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonDogNutrition" />
+
+    <Button
+        android:id="@+id/buttonOrderDogNutrition"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Order Dog Nutrition"
+        android:padding="16dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonDogMedicine" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
